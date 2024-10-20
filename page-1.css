@@ -1,0 +1,102 @@
+.container-1 {
+  width: 100vw;
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: url("/img/bg-1.jpg");
+}
+
+.text-hello {
+  color: white;
+  font-size: 48px;
+  position: fixed;
+  top: 6rem;
+  width: 100%;
+  padding: 0 20px;
+  text-align: center;
+}
+
+/* Container for the typing effect */
+.typing-container {
+  width: 60%;
+  position: fixed;
+  top: 25%;
+  right: 5%;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+
+/* Typing text style */
+#typing-text {
+  font-size: 22px;
+  color: white;
+  white-space: pre-wrap; /* Allow automatic line breaks */
+}
+
+.btn-container {
+  position: fixed;
+  bottom: 50%;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+@media screen and (max-width: 768px) {
+  .text-hello {
+    font-size: 30px;
+  }
+
+  .typing-container {
+    padding: 15px;
+    width: 70%;
+  }
+
+  #typing-text {
+    font-size: 16px;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .typing-container {
+    right: 0%;
+    width: 100%;
+  }
+  .text-hello {
+    font-size: 24px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 900px) {
+  .typing-container {
+    width: 65%;
+  }
+
+  .text-hello {
+    font-size: 36px;
+  }
+
+  #typing-text {
+    font-size: 18px;
+  }
+}
+
+@media (min-width: 900px) and (max-width: 1024px) {
+  .typing-container {
+    width: 65%;
+  }
+
+  .text-hello {
+    font-size: 36px;
+  }
+}
+
+@media (min-width: 900px) and (max-width: 1250px) {
+  .typing-container {
+    width: 65%;
+  }
+  #typing-text {
+    font-size: 20px;
+  }
+}
