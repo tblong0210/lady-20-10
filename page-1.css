@@ -31,7 +31,7 @@
 
 /* Typing text style */
 #typing-text {
-  font-size: 18px;
+  font-size: 20px;
   color: white;
   white-space: pre-wrap; /* Allow automatic line breaks */
 }
