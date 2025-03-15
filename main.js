@@ -131,12 +131,12 @@ onload = () => {
 }
 
 // Nội dung cần hiển thị
-const text = `Nói chứ, hmm... nay hong lên được Sài Gòn nên hong tham gia được sinh nhật Trà, có gì sorry nhe, có gì nào được thì gủ đi ăn. Định mai là lên SG gửi lời chúc đồ lun cho nó zui, mà hong được rùi.
+const text = `Hé lu chị nhen, lâu rùi hong gặp dạo này chị khỏe chứ nhò? Chắc mọi chuyện đều ổn ha. Năm nay sinh nhật xa nhà nữa rùi, mà thấy chị đăng ảnh đồ cũng zui nên hk sao nhỉ. Em nghỉ mấy này nhằm nhò gì với chị đâu đúng hong kkk. Hoy nói chứ, ở xa cũng chắc hơi bùn nên chị đừng buồn nữa nhe 🙊. 
 
-Tuổi mới chúc bạn luon zui zẻ, xinh đẹp và gặt hái được nhìu thành công nhen 🎉🎉🎉. Mong nguyện vọng đi Đức sẽ suôi chèo thuận gió he, và sớm kiếm được a chàng nào đó đúng gu he kkk. Chúc mừng sinh nhật nhe 🎈🎈🎈
+Tuổi mới chúc chị luôn zui zẻ, xinh đẹp và gặt hái thêm nhìu mong muốn của mình nhen 🎉🎉🎉. Chúc chị sớm tốt nghiệp, và có được một công việc mình mong muốn hen 🎈🎈🎈. 
 
 Ký gửi 
-Long không công nghiệp 🙊`
+Bé Long không công nghiệp`
 
 // Thời gian chờ giữa mỗi chữ
 const typingSpeed = 20 // 50ms
