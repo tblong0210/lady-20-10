@@ -133,7 +133,7 @@ onload = () => {
 // Nội dung cần hiển thị
 const text = `Hé lu chị nhen, lâu rùi hong gặp dạo này chị khỏe chứ nhò? Chắc mọi chuyện đều ổn ha. Năm nay sinh nhật xa nhà nữa rùi, mà thấy chị đăng ảnh đồ cũng zui nên hk sao nhỉ. Em nghỉ mấy này nhằm nhò gì với chị đâu đúng hong kkk. Hoy nói chứ, ở xa cũng chắc hơi bùn nên chị đừng buồn nữa nhe 🙊. 
 
-Tuổi mới chúc chị luôn zui zẻ, xinh đẹp và gặt hái thêm nhìu mong muốn của mình nhen 🎉🎉🎉. Chúc chị sớm tốt nghiệp, và có được một công việc mình mong muốn hen 🎈🎈🎈. 
+Tuổi mới chúc chị luôn zui zẻ, xinh đẹp và gặt hái thêm nhìu mong muốn của mình nhen 🎉🎉🎉. Chúc chị sớm tốt nghiệp, và có được một công việc mình mong muốn hen. Sinh nhật zui zẻ nhen người đẹp  🎈🎈🎈. 
 
 Ký gửi 
 Bé Long không công nghiệp`
